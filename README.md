@@ -22,15 +22,17 @@ Custom Circuit Board for Grabber , The gerber files are in the repo, I used PCBW
 
 A fair amount of 22 gage wire, I made an attempt at using quick connects to make the battery connection to the switches easier to disconnect but the current space issues make such things mildly difficult so you can just directly wire up the grabber and desolder for repairs. Annoying but with the space constraints it made sense at the time.
 
+There are about 4 separate runs of wire you will have to run other then the wires built into the linear actuator
+There are circuit diagrams that you can view from the photo section of the layout of the switch board or if you feel like not using it, it's going to tell you exactly how you have to run things.
+
 Grabber 48"	https://www.amazon.com/dp/B000RUKZNU?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 , this is the grabber that you need to basically need to cut and then combined with the other parts in this design
 Or
 Grabber 36" https://www.amazon.com/dp/B0000V0AGS/?coliid=I2SN9CFSNLCHWP&colid=3JNOTM74GBT0X&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it , another grabber you can use if you want a shorter grabber for whatever reason, still works out the same for the most part
 
-3/48 x 1" Stainless Steel Round Head Phillips Machine Screws	https://www.amazon.com/dp/B013XANDXY/?coliid=IJNJTJPOZEC31&colid=3JNOTM74GBT0X&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it , take the 12 from this listing
+Battery Prongs	https://www.te.com/en/product-42214-2.html?te_bu=Cor&te_type=srch&te_campaign=ggl_usa_cor-ggl-usa-srch-fy23-smbmktg-pfm-emi-us_sma-2844_2&elqCampaignId=163125&gclid=Cj0KCQiAwJWdBhCYARIsAJc4idDtBZFJZNP_-SDxGzrRgCFeqgtEI1sV-STMod0eMnQQOVzPxxeOGPUaAlAhEALw_wcB , I bought 4 again also because I wanted backups but you only need 2\
 
-3/48 Hex Nuts, Stainless Steel	https://www.amazon.com/dp/B07NQN3PL3/?coliid=I2AID9FJJ8WRFN&colid=3JNOTM74GBT0X&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it , take the 12 from this listing
-
-Battery Prongs	https://www.te.com/en/product-42214-2.html?te_bu=Cor&te_type=srch&te_campaign=ggl_usa_cor-ggl-usa-srch-fy23-smbmktg-pfm-emi-us_sma-2844_2&elqCampaignId=163125&gclid=Cj0KCQiAwJWdBhCYARIsAJc4idDtBZFJZNP_-SDxGzrRgCFeqgtEI1sV-STMod0eMnQQOVzPxxeOGPUaAlAhEALw_wcB , I bought 4 again also because I wanted backups but you only need 2
+Micro Linear Actuator https://www.amazon.com/dp/B0B9JPQDSV?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1, I bought 1 of these
+(The gearing here is more aggressive then it needs to be on the 36" grabber but for the 48" it is required to get one of these as the gearing for a faster motor doesn't have enough static friction to keep the spring on the grabber from moving)
 
 
 
