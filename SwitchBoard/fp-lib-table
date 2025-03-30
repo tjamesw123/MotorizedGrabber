@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PersonalTJAMES")(type "KiCad")(uri "${KIPRJMOD}/PersonalTJAMES.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+175.7,-62.9,0.0,top,H1,,,SmallerPad,MountingHPNegativePower,tht
+175.7,-69.9,0.0,top,H2,,,SmallerPad,MountingHPPositivePower,tht
+158.0,-61.7,0.0,top,H3,,,SmallerPad,MountingHPPositiveMotor,tht
+158.0,-65.5,0.0,top,H4,,,SmallerPad,MountingHPNegativeMotor,tht
+158.0,-73.1,0.0,top,H5,,,SmallerPad,MountingHPInputLS,tht
+158.0,-69.4,0.0,top,H6,,,SmallerPad,MountingHPOutputLS,tht
+166.8,-63.0,0.0,top,SW1,,,SP-7,SW_SPDT,tht
+166.8,-70.0,0.0,top,SW2,,,SP-7,SW_SPDT,tht
